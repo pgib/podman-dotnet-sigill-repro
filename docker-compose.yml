@@ -1,0 +1,4 @@
+services:
+  repro:
+    build: .
+    container_name: dotnet-sigill-repro
